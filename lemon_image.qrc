@@ -1,0 +1,32 @@
+<!DOCTYPE RCC><RCC version="1.0"> 
+  <qresource>
+    <file alias="lemon.svg">res/lemon.svg</file>
+    <file alias="open.svg">res/open.svg</file>
+    <file alias="save.svg">res/save.svg</file>
+    <file alias="quit.svg">res/quit.svg</file>
+    <file alias="select.svg">res/select.svg</file>
+    <file alias="hand.svg">res/hand.svg</file>
+    <file alias="zoom_in.svg">res/zoom_in.svg</file>
+    <file alias="zoom_out.svg">res/zoom_out.svg</file>
+    <file alias="raster.svg">res/raster.svg</file>
+    <file alias="vector.svg">res/vector.svg</file>
+    <file alias="view.svg">res/view.svg</file>
+    <file alias="cascade.svg">res/cascade.svg</file>
+    <file alias="tile.svg">res/tile.svg</file>
+    <file alias="tool.svg">res/tool.svg</file>
+    <file alias="remove.svg">res/remove.svg</file>
+    <file alias="metadata.svg">res/metadata.svg</file>
+    <file alias="rgb.svg">res/rgb.svg</file>
+    <file alias="change_style.svg">res/change_style.svg</file>
+    <file alias="attribute_table.svg">res/attribute_table.svg</file>
+    <file alias="metadata_dialog.svg">res/metadata_dialog.svg</file>
+    <file alias="general.svg">res/general.svg</file>
+    <file alias="spatial_reference.svg">res/spatial_reference.svg</file>
+    <file alias="palette.svg">res/palette.svg</file>
+    <file alias="red.svg">res/red.svg</file>
+    <file alias="green.svg">res/green.svg</file>
+    <file alias="blue.svg">res/blue.svg</file>
+    <file alias="zoom_in.png">res/zoom_in.png</file>
+    <file alias="zoom_out.png">res/zoom_out.png</file>
+  </qresource>
+</RCC>

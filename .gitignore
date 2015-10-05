@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# CMake
+build/
+
+# KDevelop
+.kdev4
+
+# Dolphin
+.directory
